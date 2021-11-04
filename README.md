@@ -31,7 +31,7 @@
 ----
 
 #### * **rockyou.dict** 
-(7ziped split) the known rockyou list. Use are reference to remove duplicates from the other lists - 14.344.391 lines
+(7ziped split) the known rockyou list. Used as reference to remove duplicates from the other lists - 14.344.391 lines
 
 ----------------------------
 
