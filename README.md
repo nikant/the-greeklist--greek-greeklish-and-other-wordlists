@@ -14,7 +14,7 @@
 
 #### * **output_final_mod_wordlist/output_final_nikant.dict**
           output_final_nikant.dict.7z.001 .. output_final_nikant.dict.7z.011           
-(7ziped split) assorted Greeklish wordlist. Modified wordlist from "output_final" wordlist found here: https://github.com/nikos-glikis/greeklish-wordlist-generator with removed duplicates that are in all other wordlists in this git - 621.607.215 lines
+(7ziped split) assorted Greeklish wordlist. Modified wordlist from "output_final" wordlist found here: https://github.com/nikos-glikis/greeklish-wordlist-generator with removed duplicates that are in all other wordlists in this repo - 621.607.215 lines
 
 ----------------------------
 ----------------------------
