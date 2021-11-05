@@ -8,13 +8,13 @@
 #### * **nikant-greeklish-01.dict** 
           ├───── nikant-greeklish-01.7z.001
           └───── nikant-greeklish-01.7z.002
-(7ziped split) assorted Greeklish wordlist. Also contains passwords found in Greek data breaches. - 11.717.607 lines
+(7ziped split) assorted Greeklish wordlist. Also contains passwords found in Greek data breaches. - 11.806.580 lines
 
 ----
 
 #### * **output_final_mod_wordlist/output_final_nikant.dict**
           output_final_nikant.dict.7z.001 .. output_final_nikant.dict.7z.011           
-(7ziped split) assorted Greeklish wordlist. Modified wordlist from "output_final" wordlist found here: https://github.com/nikos-glikis/greeklish-wordlist-generator with removed duplicates that are in all other wordlists in this repo - 621.607.215 lines
+(7ziped split) assorted Greeklish wordlist. Modified wordlist from "output_final" wordlist found here: https://github.com/nikos-glikis/greeklish-wordlist-generator with removed duplicates that are in all other wordlists in this repository - 621.607.215 lines
 
 ----------------------------
 ----------------------------
@@ -52,4 +52,5 @@ Above wordlists contain, among author's additions, parts from following wordlist
 * https://github.com/iam1980/greeklish-wordlist
 * https://github.com/tokyoski/greeklish_wordlists
 * https://github.com/nikos-glikis/greeklish-wordlist-generator
+* https://github.com/kalpetros/greek-dictionary
 
