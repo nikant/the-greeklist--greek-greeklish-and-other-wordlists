@@ -21,7 +21,7 @@
 
 ## English / generic
 #### * **nikant-gen-01.dict** 
-(7ziped) assorted English / common / found wordlist. - 1.843.072 lines
+(7ziped) assorted English / common / found / combined wordlist. - 2.024.494 lines
 
 ----
 
@@ -53,4 +53,5 @@ Above wordlists contain, among author's additions, parts from following wordlist
 * https://github.com/tokyoski/greeklish_wordlists
 * https://github.com/nikos-glikis/greeklish-wordlist-generator
 * https://github.com/kalpetros/greek-dictionary
-
+* https://github.com/berzerk0/Probable-Wordlists
+* https://wiki.skullsecurity.org/index.php/Passwords
