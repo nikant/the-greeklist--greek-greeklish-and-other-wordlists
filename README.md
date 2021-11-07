@@ -8,7 +8,7 @@
 #### * **nikant-greeklish-01.dict** 
           ├───── nikant-greeklish-01.7z.001
           └───── nikant-greeklish-01.7z.002
-(7ziped split) assorted Greeklish wordlist. Also contains passwords found in Greek data breaches. - 11.806.900 lines
+(7ziped split) assorted Greeklish wordlist. Also contains passwords found in Greek data breaches. - 11.907.750 lines
 
 ----
 
