@@ -1,4 +1,4 @@
-# wordlists
+# the greeklist (greek greeklish and other wordlists)
 
 ## 📜 Wordlists
 
